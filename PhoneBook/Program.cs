@@ -66,5 +66,4 @@ class Program
                 Console.WriteLine("Please enter a valid choice!");
         } while (choice != 6);
     }
-
 }
